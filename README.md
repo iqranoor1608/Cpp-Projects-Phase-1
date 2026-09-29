@@ -1,4 +1,4 @@
-# Cpp-Projects-Phase-2
+# Cpp-Projects-Phase-1
 All C++ Projects are uploaded in C-Projects Folder
 The Projects name are given below:
 Cash & Carry
